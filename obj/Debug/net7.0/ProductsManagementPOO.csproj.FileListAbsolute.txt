@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/bin/Debug/net7.0/ProductsManagementPOO
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/bin/Debug/net7.0/ProductsManagementPOO.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/bin/Debug/net7.0/ProductsManagementPOO.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/bin/Debug/net7.0/ProductsManagementPOO.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/bin/Debug/net7.0/ProductsManagementPOO.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/refint/ProductsManagementPOO.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ProductsManagementPOO.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/ProductsManagementPOO/obj/Debug/net7.0/ref/ProductsManagementPOO.dll
